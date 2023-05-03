@@ -1,4 +1,6 @@
-<race>
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+	<race>
 		<name>Elf, Dark</name>
 		<size>M</size>
 		<speed>30</speed>
@@ -8344,3 +8346,4 @@
 			<text>Source: Unearthead Arcana: Wonders Of The Multiverse p. 1</text>
 		</trait>
 	</race>
+  </compendium>
